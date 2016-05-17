@@ -1,2 +1,2 @@
 # ToDoList
-Aplikacja z lista zadan do zrobienia
+Aktualnie aplikacja w wersji beta - tzn działa :)
